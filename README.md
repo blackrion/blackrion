@@ -1,61 +1,50 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" alt="Orion — 网络运维、AI 工具与知识管理。猎户座启发的星图主视觉。" width="100%">
+</picture>
 
-<sub>NETWORK OPERATIONS · AI AGENTS · KNOWLEDGE</sub>
+<br>
 
-# Orion
+### 把日常工作中的问题，做成用得上的工具。
 
-**把日常工作中的问题，做成用得上的工具。**
+我是 Orion，关注网络运维自动化、AI Agent 工具与个人知识管理。这里记录一些实践，也放一些能在日常工作中派上用场的小工具。
 
-网络运维自动化 · AI Agent 工具 · 个人知识管理
-
-[公开项目](#公开项目) · [关注方向](#关注方向) · [GitHub](https://github.com/blackrion)
-
-</div>
-
----
+<br>
 
 ## 关注方向
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**`01` 网络与运维** &nbsp; / &nbsp; NETWORKS  
+设备管理、服务监控，以及重复操作的自动化。
 
-### 网络与运维
+**`02` AI 与工具** &nbsp; / &nbsp; AGENTS  
+探索 AI Agent 与实际工作流的结合，让工具服务于具体任务。
 
-关注设备管理、状态监控和重复操作的自动化，让日常维护更清晰、更省心。
+**`03` 知识与记录** &nbsp; / &nbsp; KNOWLEDGE  
+整理学习笔记与实践经验，让积累的知识便于查阅和复用。
 
-</td>
-<td width="33%" valign="top">
+<br>
 
-### AI 与工具
+## 精选项目
 
-探索 AI Agent 与实际工作流的结合，制作服务于具体任务的小工具。
+<a href="https://github.com/blackrion/umans-status-panel">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-dark.svg">
+    <img src="assets/project-light.svg" alt="Umans Status Panel 终端界面示意，非实时数据。支持网关与模型状态、近期事件，每 30 秒刷新。" width="100%">
+  </picture>
+</a>
 
-</td>
-<td width="33%" valign="top">
+### Umans Status Panel
 
-### 知识与记录
+在 Snow CLI 终端中查看 Umans.ai 服务状态。网关与模型的可用性、吞吐量、首 Token 延迟和近期事件，集中呈现在一个面板里。
 
-围绕个人知识管理，把学习笔记与实践经验整理成可查阅、可复用的资料。
+`JavaScript` · `Node.js 18+` · `Snow CLI AnyPanel`
 
-</td>
-</tr>
-</table>
+每 30 秒自动刷新，支持手动刷新，零外部依赖。上图为布局示意，实际界面以项目为准。
 
-## 公开项目
+**[查看项目 ↗](https://github.com/blackrion/umans-status-panel)** &nbsp; · &nbsp; [安装与使用](https://github.com/blackrion/umans-status-panel#安装)
 
-### [Umans Status Panel](https://github.com/blackrion/umans-status-panel)
-
-在 Snow CLI 终端中查看 Umans.ai 的实时服务状态。
-
-查看网关与模型的可用性、吞吐量、首 Token 延迟和近期事件；每 30 秒自动刷新，也支持手动刷新。
-
-`JavaScript` · `Node.js 18+` · `Snow CLI AnyPanel` · `零外部依赖`
-
-[查看代码与安装说明 →](https://github.com/blackrion/umans-status-panel#readme)
+<br>
 
 ---
 
-<div align="center">
-<sub>持续学习，记录实践，打磨工具。</sub>
-</div>
+<sub>ORION / BLACKRION &nbsp; · &nbsp; 持续学习，记录实践，打磨工具。</sub>

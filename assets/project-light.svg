@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Umans Status Panel: /umans-status. Sample interface, not live data. Gateway and model availability, throughput, TTFT and recent events. Refreshes every 30 seconds. JavaScript, Node.js 18+, zero external dependencies." font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
+  <rect width="1200" height="440" rx="12" fill="#f5f4ef"/>
+  <path d="M40 29H1160M40 411H1160" stroke="#cbd5d7"/>
+  <text x="48" y="59" fill="#355365" font-size="16" letter-spacing="2.5">UMANS / STATUS PANEL</text>
+  <text x="1152" y="59" text-anchor="end" fill="#536b7a" font-size="14">Snow CLI / AnyPanel</text>
+  <rect x="44" y="81" width="814" height="301" rx="9" fill="#fcfcf8" stroke="#cad6d9"/>
+  <path d="M44 119H858" stroke="#cad6d9"/>
+  <circle cx="64" cy="100" r="3" fill="#527784"/>
+  <circle cx="77" cy="100" r="3" fill="none" stroke="#8da7b2"/>
+  <circle cx="90" cy="100" r="3" fill="none" stroke="#8da7b2"/>
+  <text x="117" y="105" fill="#536f7f" font-size="12" letter-spacing="1.5">TERMINAL / COMMAND VIEW</text>
+  <text x="837" y="105" text-anchor="end" fill="#4b6877" font-size="12" letter-spacing="1">SAMPLE VIEW · NOT LIVE DATA</text>
+  <path d="M65 144L75 153L65 162" fill="none" stroke="#36717a" stroke-width="2"/>
+  <text x="90" y="169" fill="#142c40" font-size="43" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-weight="600" letter-spacing="-1.5">/umans-status</text>
+  <path d="M64 190H837M64 250H837M64 312H837M292 203V299M490 203V299M678 203V299" stroke="#cad6d9"/>
+  <text x="66" y="216" fill="#294658" font-size="17" font-weight="600">Gateway</text>
+  <text x="66" y="237" fill="#5d7583" font-size="12">SERVICE AVAILABILITY</text>
+  <text x="313" y="214" fill="#536f7f" font-size="11" letter-spacing="1">AVAILABILITY</text>
+  <text x="313" y="239" fill="#36717a" font-size="21" font-family="Consolas, Courier New, monospace">--</text>
+  <text x="511" y="214" fill="#536f7f" font-size="11" letter-spacing="1">THROUGHPUT</text>
+  <text x="511" y="239" fill="#36717a" font-size="21" font-family="Consolas, Courier New, monospace">--</text>
+  <text x="699" y="214" fill="#536f7f" font-size="11" letter-spacing="1">TTFT</text>
+  <text x="699" y="239" fill="#36717a" font-size="21" font-family="Consolas, Courier New, monospace">--</text>
+  <text x="66" y="277" fill="#294658" font-size="17" font-weight="600">Models</text>
+  <text x="66" y="298" fill="#5d7583" font-size="12">MODEL / --</text>
+  <text x="313" y="287" fill="#36717a" font-size="21" font-family="Consolas, Courier New, monospace">--</text>
+  <text x="511" y="287" fill="#36717a" font-size="21" font-family="Consolas, Courier New, monospace">--</text>
+  <text x="699" y="287" fill="#36717a" font-size="21" font-family="Consolas, Courier New, monospace">--</text>
+  <text x="66" y="339" fill="#294658" font-size="16" font-weight="600">Recent events</text>
+  <path d="M242 332V365M242 339H255M242 359H255" fill="none" stroke="#8da7b2"/>
+  <text x="269" y="343" fill="#536f7f" font-size="12" font-family="Consolas, Courier New, monospace">-- : --</text>
+  <text x="365" y="343" fill="#36717a" font-size="14">--</text>
+  <text x="269" y="363" fill="#536f7f" font-size="12" font-family="Consolas, Courier New, monospace">-- : --</text>
+  <text x="365" y="363" fill="#36717a" font-size="14">--</text>
+  <path d="M893 92H1152M893 260H1152" stroke="#cad6d9"/>
+  <text x="898" y="122" fill="#536b7a" font-size="12" letter-spacing="2.2">REFRESH INTERVAL</text>
+  <text x="891" y="210" fill="#26485c" font-size="91" font-weight="300" letter-spacing="-5">30</text>
+  <text x="994" y="210" fill="#26485c" font-size="48" font-weight="300">s</text>
+  <text x="898" y="238" fill="#36717a" font-size="17" letter-spacing="3">AUTO REFRESH</text>
+  <path d="M1122 190A15 15 0 1 1 1131 169M1131 160V170H1121" fill="none" stroke="#527784" stroke-width="1.5"/>
+  <text x="898" y="290" fill="#355365" font-size="15">JavaScript</text>
+  <text x="898" y="317" fill="#355365" font-size="15">Node.js 18+</text>
+  <text x="898" y="344" fill="#355365" font-size="15">Zero external dependencies</text>
+  <text x="898" y="376" fill="#5d7583" font-size="11" letter-spacing="1.5">BUILT FOR THE TERMINAL</text>
+  <text x="48" y="402" fill="#5d7583" font-size="11" letter-spacing="1.3">BLACKRION / SELECTED TOOL</text>
+  <text x="1152" y="402" text-anchor="end" fill="#5d7583" font-size="11" letter-spacing="1.3">OBSERVE · UNDERSTAND · RESPOND</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="ORION — Blackrion field notes. Networks, agents, knowledge. Orion-inspired schematic, not an astronomical chart." font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
+  <rect width="1200" height="360" rx="12" fill="#101d2b"/>
+  <path d="M40 34H1160M40 326H1160" fill="none" stroke="#2c4052"/>
+  <path d="M40 34H90M40 34V62M1160 326H1110M1160 326V298" fill="none" stroke="#9ccbd1"/>
+  <text x="64" y="73" fill="#b4c4d0" font-size="14" letter-spacing="3">BLACKRION / FIELD NOTES</text>
+  <text x="58" y="204" fill="#f0f2ef" font-size="112" font-weight="600" letter-spacing="5">ORION</text>
+  <path d="M64 237H106" stroke="#a5d5d9" stroke-width="2"/>
+  <text x="122" y="242" fill="#9fb1c1" font-size="14" letter-spacing="2">TOOLS FOR EVERYDAY SYSTEMS</text>
+  <text x="64" y="298" fill="#d2dedf" font-size="17" letter-spacing="2">NETWORKS / AGENTS / KNOWLEDGE</text>
+  <path d="M630 66V290" stroke="#2c4052"/>
+  <path d="M688 98H1136M688 154H1136M688 210H1136M688 266H1136M728 84V286M808 84V286M888 84V286M968 84V286M1048 84V286M1128 84V286" fill="none" stroke="#203447" stroke-width="1"/>
+  <path d="M683 273C752 312 891 297 1010 221C1065 186 1107 145 1136 100" fill="none" stroke="#496370" stroke-dasharray="3 9"/>
+  <path d="M707 250C742 137 879 67 1092 87" fill="none" stroke="#344c60"/>
+  <text x="706" y="73" fill="#c4d7dc" font-size="13" letter-spacing="2.6">ORION / SCHEMATIC</text>
+  <text x="706" y="307" fill="#859bab" font-size="11" letter-spacing="1.8">CONSTELLATION STUDY · NOT TO SCALE</text>
+  <path d="M896 95L819 129L866 191L908 180L953 169L1017 116L896 95M866 191L799 267M953 169L1002 273M866 191L953 169" fill="none" stroke="#9ccbd1" stroke-opacity="0.7" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M908 180L921 225L929 247" fill="none" stroke="#7297a8" stroke-width="1.2"/>
+  <circle cx="896" cy="95" r="3" fill="#dce8e8"/>
+  <circle cx="819" cy="129" r="5" fill="#dce8e8"/>
+  <circle cx="819" cy="129" r="12" fill="none" stroke="#527485"/>
+  <circle cx="1017" cy="116" r="4" fill="#a5d5d9"/>
+  <circle cx="866" cy="191" r="3.5" fill="#dce8e8"/>
+  <circle cx="908" cy="180" r="4" fill="#a5d5d9"/>
+  <circle cx="953" cy="169" r="3.5" fill="#dce8e8"/>
+  <circle cx="799" cy="267" r="4" fill="#a5d5d9"/>
+  <circle cx="1002" cy="273" r="5" fill="#dce8e8"/>
+  <circle cx="1002" cy="273" r="12" fill="none" stroke="#527485"/>
+  <circle cx="921" cy="225" r="2" fill="#98b7c3"/>
+  <circle cx="929" cy="247" r="2" fill="#98b7c3"/>
+  <circle cx="742" cy="174" r="1.5" fill="#607f92"/>
+  <circle cx="1079" cy="236" r="1.5" fill="#607f92"/>
+  <circle cx="1061" cy="153" r="1.5" fill="#607f92"/>
+  <path d="M1089 267H1101M1095 261V273M752 107H762M757 102V112" fill="none" stroke="#607f92"/>
+  <path d="M827 124L850 108H866M1010 280L1032 292H1060" fill="none" stroke="#527485"/>
+</svg>
